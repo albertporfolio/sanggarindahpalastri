@@ -1,0 +1,24 @@
+.site-header {
+  background-color: rgba(0, 0, 0, 0.85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+#titleproduct {
+  background-color: #8e8e8e;
+  color: white;
+  margin-top: -10px;
+}
+
+#spekproperti {
+  background-color: #e4e5e6;
+}
+
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
+}
+
+.leadtypetext-usp {
+  margin-top: -60px;
+}
